@@ -26,5 +26,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "Alejandro Ruiz"
+          heroku_app_name: "alejandromadridcarnegie1234"
           heroku_email: "aruiz2@andrew.cmu.edu"
